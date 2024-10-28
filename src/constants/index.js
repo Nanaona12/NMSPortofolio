@@ -169,12 +169,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Company Profile of PT.JARI Teknologi Informasi",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A company profile website designed to introduce PT. JARI Teknologi Informasi to potential clients and business partners. Built using Laravel, MongoDB, and Tailwind CSS, this site provides a comprehensive view of the company's services, portfolio, and profile with a modern and responsive layout.",
     tags: [
       {
-        name: "react",
+        name: "Laravel",
         color: "blue-text-gradient",
       },
       {
@@ -187,15 +187,15 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
   {
-    name: "Job IT",
+    name: "E-Commerce Fashion Shop",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "An e-commerce platform designed for a fashion store, offering features like product catalog, shopping cart management, and online payment integration. This application is built using Laravel, SCSS for dynamic styling, and a REST API that enables seamless service communication for a smooth shopping experience.",
     tags: [
       {
-        name: "react",
+        name: "Laravel",
         color: "blue-text-gradient",
       },
       {
@@ -208,15 +208,15 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
   {
-    name: "Trip Guide",
+    name: "Pulus (Website Pengepul Sampah)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An innovative platform that connects waste collectors with communities who wish to recycle or sell their waste. Built with a combination of React and Laravel, and supported by Supabase as the backend, this website aims to promote sustainability by providing a user-friendly interface for both users and collectors.",
     tags: [
       {
-        name: "nextjs",
+        name: "React + Laravel",
         color: "blue-text-gradient",
       },
       {
@@ -229,7 +229,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
 ];
 
